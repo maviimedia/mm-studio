@@ -1,0 +1,19 @@
+Frontend Environment (/frontend)
+Target Deployment: Vercel
+
+1. React + UI Library
+2. Vite (Latest) + Build tool and development server
+3. TypeScript (Latest) + Static typing and interfaces
+4. TailwindCSS (v4) + Utility-first styling (configured via @tailwindcss/vite plugin)
+
+Backend Environment (/backend)
+Target Deployment: Render
+
+1. Express + Web framework for Node.js
+2. TypeScript + Static typing for backend logic
+3. SupabaseJS + Database and authentication client
+4. Zod + Schema declaration and environment variable validation
+5. Helmet + Security middleware for HTTP headers
+6. CORS + Cross-Origin Resource Sharing policy
+7. ts-node-dev + Development server with hot-reloading
+8. dotenv + Loading environment variables
